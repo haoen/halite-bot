@@ -1,0 +1,16 @@
+ --- Init ---
+MyBot
+ --- Bot used 3 milliseconds ---
+-----------------------------------------------------------------------------
+ --- Frame #1 ---
+Traceback (most recent call last):
+ --- Bot used 35 milliseconds ---
+ERRORED!
+Response received (if any):
+Traceback (most recent call last):
+ --- Bot was killed. Below is the rest of its output (if any): ---
+  File "MyBot.py", line 77, in <module>
+    center_x, center_y = get_center(game_map)
+NameError: name 'get_center' is not defined
+
+ --- End bot output ---
